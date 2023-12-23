@@ -10,6 +10,7 @@ from bing_image_downloader import downloader
 import tqdm
 import backoff
 
+# TODO: accept as argument
 SOURCE_COLUMN_INDEX = 1
 
 def main():
