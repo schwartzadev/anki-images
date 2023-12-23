@@ -1,0 +1,4 @@
+*.tsv
+*.txt
+images
+.DS_Store
